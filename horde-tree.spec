@@ -5,7 +5,7 @@
 
 Name:          horde-tree
 Version:       0.0.2
-Release:       %mkrel 2
+Release:       %mkrel 3
 Summary:       Horde Tree API
 License:       LGPL
 Group:         Networking/Mail
