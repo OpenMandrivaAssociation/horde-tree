@@ -60,3 +60,21 @@ fi
 %{peardir}/Horde/Tree/javascript.php
 %{peardir}/Horde/Tree/select.php
 
+
+
+%changelog
+* Sat Jul 31 2010 Thomas Spuhler <tspuhler@mandriva.org> 0.0.2-3mdv2011.0
++ Revision: 564105
+- Increased release for rebuild
+
+* Thu Mar 18 2010 Thomas Spuhler <tspuhler@mandriva.org> 0.0.2-2mdv2010.1
++ Revision: 524856
+- replaced Requires(pre): %%{_bindir}/pear with Requires(pre): php-pear
+  increased rel ver to 2
+
+* Thu Feb 25 2010 Thomas Spuhler <tspuhler@mandriva.org> 0.0.2-1mdv2010.1
++ Revision: 510901
+- Removed BuildRequires: horde-framework
+- Initial import
+
+
